@@ -1,7 +1,7 @@
 @import "foundation.scss";
 
 .no-bg {
-  background-color: $yellow !important;
+  background-color: $white !important;
 }
 
 .tiny-text {
@@ -67,7 +67,18 @@
 }
 
 
+.bordered {
+  border: 1px solid #ff544a;
+  border-radius: 5px;
+}
 
+ul {
+  color: #666;
+}
+
+//.main-pic {
+//  max-width: 580px;
+//}
 
 
 

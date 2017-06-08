@@ -68,10 +68,10 @@ table, tr, td {
 
 html {
   min-height: 100%;
-  background: #FBF18E; }
+  background: #1FE0FB; }
 
 table.body {
-  background: #FBF18E;
+  background: #1FE0FB;
   height: 100%;
   width: 100%; }
 
@@ -1383,7 +1383,7 @@ body.outlook p {
   padding-bottom: 16px; }
 
 .no-bg {
-  background-color: #FBF18E !important; }
+  background-color: #FFFFFF !important; }
 
 .tiny-text {
   font-size: 12px; }
@@ -1430,3 +1430,10 @@ body.outlook p {
     padding: 12px 35px 12px 35px; }
     .table.button table td a {
       padding: 0; }
+
+.bordered {
+  border: 1px solid #ff544a;
+  border-radius: 5px; }
+
+ul {
+  color: #666; }
